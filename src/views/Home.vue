@@ -36,7 +36,6 @@
         <v-layout row wrap>
             <v-flex xs12 md3>
                 <div class="bg-img-2">
-
                     <img class="doodle-bottom animated infinite rotateIn" style="animation-duration: 30s;" src="../assets/doodle.svg">
                 </div>
             </v-flex>
